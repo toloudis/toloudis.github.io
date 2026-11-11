@@ -1,0 +1,1 @@
+var e=e=>/^https?:\/\//.test(e)?e:`./${encodeURI(e.replace(/^\//,``))}`;export{e as t};

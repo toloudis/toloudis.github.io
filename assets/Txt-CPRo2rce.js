@@ -1,0 +1,1 @@
+import{o as e}from"./mount-3swXHmPe.js";var t=e();function n({value:e}){return(0,t.jsx)(t.Fragment,{children:(Array.isArray(e)?e:[e]).map((e,n)=>typeof e==`string`?e:(0,t.jsx)(`span`,{className:`todo`,children:e.todo},n))})}export{n as t};
